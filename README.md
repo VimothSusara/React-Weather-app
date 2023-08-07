@@ -1,3 +1,3 @@
 # React-Weather-app
 
-Weather app using React lan
+Weather app using React
